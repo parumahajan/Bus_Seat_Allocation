@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BusSeatAllocation.Tests/BusSeatAllocation.Tests.csproj" />
+  <Project Path="Bus_Seat_Allocation_Problem/Bus_Seat_Allocation_Problem.csproj" />
+</Solution>
